@@ -1,4 +1,4 @@
-name := "sbt-avro-1.8"
+name := "sbt-avro-1.9"
 organization := "com.cavorite"
 description := "Sbt plugin for compiling Avro sources"
 
